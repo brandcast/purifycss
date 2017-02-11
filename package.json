@@ -4,7 +4,7 @@
   "description": "Removed unused css. Compatible with single-page apps.",
   "main": "./src/purifycss.js",
   "dependencies": {
-    "clean-css": "^3.2.10",
+    "clean-css": "^4.0.6",
     "glob": "^6.0.4",
     "rework": "^1.0.1",
     "uglifyjs": "^2.4.10",
